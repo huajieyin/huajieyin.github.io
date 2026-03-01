@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs / temp
+*.log
+tmp/
+temp/
+
+# Local env / secrets
+.env
+.env.*
+!.env.example
+
+# Build artifacts (if introduced later)
+dist/
+build/
+coverage/
+
+# OS trash
+.Trashes
